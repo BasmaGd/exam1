@@ -32,4 +32,4 @@ Ce projet propose une application de gestion d'articles et de catégories avec l
 ![image](https://github.com/BasmaGd/exam1/assets/118211411/0c822c5b-110e-48b4-a9d1-3a9f3f17ca89)
 ![image](https://github.com/BasmaGd/exam1/assets/118211411/8a690150-7d78-45cb-b183-f366512b9e81)
 ![WhatsApp Image 2023-11-15 at 18 18 51](https://github.com/BasmaGd/exam1/assets/118211411/b089b17f-c68c-428e-aa09-c0e0ae316d41)
-![WhatsApp Image 2023-11-15 at 18 18 51](https://github.com/BasmaGd/exam1/assets/118211411/0282f1c3-ad6d-4b83-a3ec-ad32e47c77ec)
+![WhatsApp Image 2023-11-15 at 18 19 42](https://github.com/BasmaGd/exam1/assets/118211411/8ae4044a-c750-4ad2-84b3-9e65e2c61575)
