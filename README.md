@@ -3,7 +3,7 @@
 
 ## Description
 Ce projet propose une application de gestion d'articles et de catégories avec les fonctionnalités de base pour créer, mettre à jour, supprimer des articles et gérer les catégories associées.
-
+![Screenshot (116)](https://github.com/BasmaGd/exam1/assets/118211411/fc18c52a-34c2-409c-93c8-16926be28ce5)
 ## Fonctionnalités Clés
 
 1. **Gestion des Articles:**
